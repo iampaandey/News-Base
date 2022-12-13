@@ -1,3 +1,15 @@
+<img src="https://github.com/iampaandey/News-Base/blob/master/Screenshots/Screenshot_20221214_002616.png" width="600">
+<img src="https://github.com/iampaandey/News-Base/blob/master/Screenshots/Screenshot_20221214_002703.png" width="600">
+<img src="https://github.com/iampaandey/News-Base/blob/master/Screenshots/Screenshot%202022-12-14%20005401-news%20bs-2.png" width="300">
+
+
+
+This website is built using React and Bootstrap , a user can find news filtered in different categories and it gives a little description of the news and source website of the news.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
